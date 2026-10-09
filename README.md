@@ -4,7 +4,7 @@
 
 ## Скачать
 
-Откройте раздел [Releases](../../releases/latest) и скачайте архив `Roblox-Sheets-1.0.zip`.
+Откройте раздел [Releases](../../releases/latest) и скачайте архив `Roblox-Sheets-<версия>.zip`.
 
 1. Распакуйте архив в любую папку.
 2. Запустите `Ноты.exe`.
