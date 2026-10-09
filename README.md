@@ -11,4 +11,6 @@
 
 ---
 
-Closed-source proprietary software. All rights reserved.
+© 2026 Роман Платонов (Roman Platonov). Все права защищены. All rights reserved.
+
+Проприетарная программа с закрытым исходным кодом. Копирование, распространение, изменение и разбор запрещены — см. [LICENSE](LICENSE).
